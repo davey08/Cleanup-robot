@@ -3,7 +3,7 @@
 int setPoint = 30;
 #define DEG_TO_MOVE_ONE_FOOT 1400
 #define QUARTER_TURN 80
-#define SPEED 10
+#define SPEED 20
 
 bool greenGoal = false;
 bool redGoal = false;
